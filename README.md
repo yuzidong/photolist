@@ -18,3 +18,5 @@
   
 7.卖萌装可爱 [【更多图片】](http://yuzidong.github.io/photo_h)  
 ![h](https://github.com/yuzidong/photolist/blob/master/images/h.jpg?raw=true)  
+  
+[Q&A 婚礼信息](http://yuzidong.github.io/wedding/)
