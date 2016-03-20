@@ -1,6 +1,6 @@
 {
   "name": "Photolist",
   "tagline": "",
-  "body": "1.喜服外景镇江阁  \r\n![a](a.jpg)  \r\n2.室内婚纱  \r\n![b](b.jpg)   \r\n3.室外婚纱   \r\n![d](d.jpg)  \r\n4.室内艺术照     \r\n![e](e.jpg)   \r\n5.室外民国风    \r\n![f](f.jpg)   \r\n6.东山家私城   \r\n![g](g.jpg)     \r\n7.室内卖萌装可爱  \r\n![h](h.jpg)  \r\n",
+  "body": "1.喜服外景镇江阁  \r\n![a](images/a.jpg)  \r\n2.室内婚纱  \r\n![b](images/b.jpg)   \r\n3.室外婚纱   \r\n![d](images/d.jpg)  \r\n4.室内艺术照     \r\n![e](images/e.jpg)   \r\n5.室外民国风    \r\n![f](images/f.jpg)   \r\n6.东山家私城   \r\n![g](images/g.jpg)     \r\n7.室内卖萌装可爱  \r\n![h](images/h.jpg)  \r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
