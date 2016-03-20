@@ -1,5 +1,5 @@
 1.喜服外景镇江阁  
-![a](http://github.com/yuzidong/photolist/raw/master/images/a.jpg)  
+![a](http://github.com/yuzidong/photolist/images/a.jpg)  
 2.室内婚纱  
 ![b](images/b.jpg)   
 3.室外婚纱   
